@@ -1,8 +1,8 @@
 <h1 align="center">## 👋 Hola Soy Jesus Enrique Leon</h1>  
 
-<p align="left"><a href="https://github.com/Ryujin010/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ryujin010" alt="Jesús Enrique León Arteaga" /></a></p>
+<!--<p align="left"><a href="https://github.com/Ryujin010/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ryujin010" alt="Jesús Enrique León Arteaga" /></a></p>-->
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Ryujin010)](https://github.com/Ryujin010/github-profile-trophy) -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ryujin010&theme=onedark)](https://github.com/Ryujin010/github-profile-trophy)
 
 - 🔭 I’m currently working on ** Grupo JesNor SAS de CV **
 - 🌱 I’m currently learning ** Análisis de Datos, Machine Learning e Ingeniería Full Stack **
