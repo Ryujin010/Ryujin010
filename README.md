@@ -1,26 +1,18 @@
-<h1 align="center">## 👋 Hola Soy Jesus Enrique Leon</h1>  
+<h1 align="center">👋 Hola Soy Jesus Enrique Leon</h1>  
 
-<!--<p align="left"><a href="https://github.com/Ryujin010/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ryujin010" alt="Jesús Enrique León Arteaga" /></a></p>-->
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ryujin010&theme=onedark)](https://github.com/Ryujin010/github-profile-trophy)
-
-- 🔭 I’m currently working on ** Grupo JesNor SAS de CV **
-- 🌱 I’m currently learning ** Análisis de Datos, Machine Learning e Ingeniería Full Stack **
-- 💬 Ask me about ** Python, Pandas, SQL, HTML, CSS, JavaScript ** 
-- 📫 How to reach me: ** jesuse.gjn@gmail.com **
-
-s
+- 🔭 I’m currently working on **Grupo JesNor SAS de CV**
+- 🌱 I’m currently learning **Análisis de Datos, Machine Learning y Desarrollo Full Stack**
+- 💬 Ask me about **Python, Pandas, SQL, HTML, CSS, JavaScript** 
+- 📫 How to reach me: **jesuse.gjn@gmail.com**
 
 ### 👨‍💻 Lenguajes de Programacion.
 
-<p>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,css,postgres,github,html,java,js,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=6" />
+  </a>
+</p>
 
 ### 🧰 Frameworks y Librerias.
 
@@ -36,9 +28,50 @@ s
 </p>
 
 <strong>📊 My Github Stats :</strong><br><br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryujin010&show_icons=true&count_private=true&include_all_commits=true&theme=radical)<br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ryujin010&theme=radical&hide_border=true"/><br><br>
+
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Ryujin010&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img alt="Streak" src="https://streak-stats.demolab.com/?user=Ryujin010&theme=dark&hide_border=false" />
+  
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryujin010&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+<!--- trophy (start) -->
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+     <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Ryujin010&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+  </a>
+</div>
+<!--- trophy (end) -->
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/top-langs/?username=Ryujin010&show_icons=true&locale=en&layout=compact" alt="Jesus Enrique Leon"></p>
+<!--profile visit count-->
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=Ryujin010&icon=3&color=6)](https://visitcount.itsvg.in)
+  
+</div>
 
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+----------------------------------------------------------------------
+Credit: [Jesús Enrique León Arteaga](https://github.com/Ryujin010)
+
+Last Edited on: 26 / 10 / 2026.
