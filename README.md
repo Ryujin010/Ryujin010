@@ -1,6 +1,6 @@
 <h1 align="center">## 👋 Hola Soy Jesus Enrique Leon</h1>  
 
-<p align="left"><a href="https://github.com/Ryujin010/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ryujin010" alt="Jesus Enrique Leon" /></a></p>
+<p align="left"><a href="https://github.com/Ryujin010/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ryujin010" alt="Jesús Enrique León Arteaga" /></a></p>
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Ryujin010)](https://github.com/Ryujin010/github-profile-trophy) -->
 
