@@ -23,7 +23,6 @@ s
 ### 🧰 Frameworks y Librerias.
 
 <p>
-    <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
     <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
