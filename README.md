@@ -60,7 +60,7 @@
 <!--- trophy (end) -->
 
 
-## 🚀 Proyectos EBAC
+## 🚀 Proyectos EBAC Desarrollador Front End.
 
 Proyectos que desarrollé durante mi formación en **EBAC**, con su descripción, las tecnologías usadas y el enlace a cada repositorio.
 
