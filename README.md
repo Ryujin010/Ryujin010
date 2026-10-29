@@ -59,7 +59,6 @@
 </div>
 <!--- trophy (end) -->
 
-
 ## 🚀 Proyectos EBAC Desarrollador Front End.
 
 Proyectos que desarrollé durante mi formación en **EBAC**, con su descripción, las tecnologías usadas y el enlace a cada repositorio.
@@ -72,10 +71,10 @@ Proyectos que desarrollé durante mi formación en **EBAC**, con su descripción
 | 4 | **Calculadora de Edad** | Calculadora de edad con tipado estático y buenas prácticas en TypeScript. | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)| [Ver repo](https://github.com/Ryujin010/EBAC-calculadora-de-edad-en-TypeScript) |
 | 5 | **Proyecto Series TV** | Sitio sobre series de televisión con estilos organizados en Sass. | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) | [Ver repo](https://github.com/Ryujin010/EBAC-proyecto-series-tv) |
 | 6 | **Bootstrap** | Práctica de maquetación responsiva usando componentes y grid de Bootstrap. | ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) | [Ver repo](https://github.com/Ryujin010/EBAC-Bootstrap) |
-| 7 | **Chatbot Simple** | Chatbot básico que responde a mensajes del usuario desde el navegador. | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) | [Ver repo](https://github.com/Ryujin010/EBAC-chatbot-simple) | 
+| 7 | **Chatbot Simple** | Chatbot básico que responde a mensajes del usuario desde el navegador. | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) | [Ver repo](https://github.com/Ryujin010/EBAC-chatbot-simple) |
 | 8 | **Tests con Jest** | Pruebas unitarias automatizadas con Jest. | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) | [Ver repo](https://github.com/Ryujin010/EBAC-tests-con-jest) |
 | 9 | **ConcretApp** | Sitio web para una empresa del sector de la construcción. | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)| [Ver repo](https://github.com/Ryujin010/EBAC-concretapp) |
-
+| 10 | **Crypto Tracker** | Panel de criptomonedas con precios en tiempo real, gráficas históricas y watchlist, consumiendo la API de CoinGecko. Incluye pruebas, diseño responsivo y despliegue continuo. | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white) ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white) | [Ver repo](https://github.com/Ryujin010/crypto-tracker) · [Ver sitio](https://TU-SITIO.netlify.app) |
 
 <!--profile visit count-->
 <div align="center">
